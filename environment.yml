@@ -1,4 +1,4 @@
-name: nyc_airbnb_dev
+name: project2
 channels:
   - conda-forge
   - defaults

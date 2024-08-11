@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/89e2ec7fb1584a70885100d1b26e3f2d/artifacts
+end_time: 1723359817291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89e2ec7fb1584a70885100d1b26e3f2d
+run_name: brawny-skunk-88
+run_uuid: 89e2ec7fb1584a70885100d1b26e3f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723359809341
+status: 4
+tags: []
+user_id: DELL

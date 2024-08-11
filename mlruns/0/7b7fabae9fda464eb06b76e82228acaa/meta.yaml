@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/7b7fabae9fda464eb06b76e82228acaa/artifacts
+end_time: 1723285357967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b7fabae9fda464eb06b76e82228acaa
+run_name: trusting-zebra-339
+run_uuid: 7b7fabae9fda464eb06b76e82228acaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723285351531
+status: 4
+tags: []
+user_id: DELL

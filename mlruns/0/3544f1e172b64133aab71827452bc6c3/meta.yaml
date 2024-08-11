@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/3544f1e172b64133aab71827452bc6c3/artifacts
+end_time: 1723360501693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3544f1e172b64133aab71827452bc6c3
+run_name: ambitious-swan-72
+run_uuid: 3544f1e172b64133aab71827452bc6c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723360494311
+status: 4
+tags: []
+user_id: DELL

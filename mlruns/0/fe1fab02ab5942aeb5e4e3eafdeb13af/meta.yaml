@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/fe1fab02ab5942aeb5e4e3eafdeb13af/artifacts
+end_time: 1723360736727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe1fab02ab5942aeb5e4e3eafdeb13af
+run_name: merciful-snipe-290
+run_uuid: fe1fab02ab5942aeb5e4e3eafdeb13af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723360729428
+status: 4
+tags: []
+user_id: DELL

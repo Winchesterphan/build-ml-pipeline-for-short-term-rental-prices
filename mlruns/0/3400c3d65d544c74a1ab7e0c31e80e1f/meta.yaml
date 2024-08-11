@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/3400c3d65d544c74a1ab7e0c31e80e1f/artifacts
+end_time: 1723361947836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3400c3d65d544c74a1ab7e0c31e80e1f
+run_name: orderly-fish-637
+run_uuid: 3400c3d65d544c74a1ab7e0c31e80e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723361937681
+status: 4
+tags: []
+user_id: DELL

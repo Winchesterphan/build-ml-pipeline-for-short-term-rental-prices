@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/e708a69db1e64fe5995b8fb482659606/artifacts
+end_time: 1723283330324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e708a69db1e64fe5995b8fb482659606
+run_name: rogue-rook-325
+run_uuid: e708a69db1e64fe5995b8fb482659606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723283157365
+status: 4
+tags: []
+user_id: DELL

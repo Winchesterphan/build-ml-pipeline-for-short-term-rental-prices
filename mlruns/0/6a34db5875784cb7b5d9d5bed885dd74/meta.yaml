@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/6a34db5875784cb7b5d9d5bed885dd74/artifacts
+end_time: 1723362206547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a34db5875784cb7b5d9d5bed885dd74
+run_name: adorable-cub-622
+run_uuid: 6a34db5875784cb7b5d9d5bed885dd74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723362198755
+status: 4
+tags: []
+user_id: DELL

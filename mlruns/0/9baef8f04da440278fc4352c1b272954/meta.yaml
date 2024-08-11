@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/9baef8f04da440278fc4352c1b272954/artifacts
+end_time: 1723360269493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9baef8f04da440278fc4352c1b272954
+run_name: amazing-hound-958
+run_uuid: 9baef8f04da440278fc4352c1b272954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723360262083
+status: 4
+tags: []
+user_id: DELL

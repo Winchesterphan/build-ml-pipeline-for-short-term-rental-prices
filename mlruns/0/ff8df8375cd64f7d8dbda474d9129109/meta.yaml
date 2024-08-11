@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/ff8df8375cd64f7d8dbda474d9129109/artifacts
+end_time: 1723361027925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff8df8375cd64f7d8dbda474d9129109
+run_name: crawling-frog-141
+run_uuid: ff8df8375cd64f7d8dbda474d9129109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723361019591
+status: 4
+tags: []
+user_id: DELL

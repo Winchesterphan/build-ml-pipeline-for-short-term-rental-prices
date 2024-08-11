@@ -1,0 +1,60 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.12.5",
+    "heartbeatAt": "2024-08-10T09:32:21.715248",
+    "startedAt": "2024-08-10T09:32:19.618207",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--parameter1",
+        "1",
+        "--parameter2",
+        "2",
+        "--parameter3",
+        "test"
+    ],
+    "state": "running",
+    "program": "D:\\Udacity\\MLops\\project_2\\build-ml-pipeline-for-short-term-rental-prices\\src\\basic_learning\\run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src\\basic_learning\\run.py",
+    "git": {
+        "remote": "https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git",
+        "commit": "3e57919f7c98506024ba400fcde4d87f5a94b9b0"
+    },
+    "email": null,
+    "root": "D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices",
+    "host": "DESKTOP-8K1CD2I",
+    "username": "DELL",
+    "executable": "C:\\Users\\DELL\\miniconda3\\envs\\mlflow-21588217edabd1ae3349bdf3db6eb680e721caa2\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2701.0,
+        "min": 0.0,
+        "max": 2701.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2701.0,
+            "min": 0.0,
+            "max": 2701.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 146.48437118530273,
+            "used": 23.28292465209961
+        }
+    },
+    "gpu": "Quadro K2100M",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Quadro K2100M",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 19.907455444335938
+    }
+}

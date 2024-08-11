@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/c928bab643a543ef840256df68fc40e5/artifacts
+end_time: 1723285153634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c928bab643a543ef840256df68fc40e5
+run_name: victorious-mouse-613
+run_uuid: c928bab643a543ef840256df68fc40e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723285127245
+status: 3
+tags: []
+user_id: DELL

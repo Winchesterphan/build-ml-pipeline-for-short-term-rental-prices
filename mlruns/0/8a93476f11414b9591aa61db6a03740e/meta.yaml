@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/8a93476f11414b9591aa61db6a03740e/artifacts
+end_time: 1723360155891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a93476f11414b9591aa61db6a03740e
+run_name: flawless-goose-259
+run_uuid: 8a93476f11414b9591aa61db6a03740e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723360148333
+status: 4
+tags: []
+user_id: DELL

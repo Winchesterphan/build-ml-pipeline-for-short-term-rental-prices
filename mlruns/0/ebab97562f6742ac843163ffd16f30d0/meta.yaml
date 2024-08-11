@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/ebab97562f6742ac843163ffd16f30d0/artifacts
+end_time: 1723280876431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebab97562f6742ac843163ffd16f30d0
+run_name: redolent-colt-143
+run_uuid: ebab97562f6742ac843163ffd16f30d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723280757529
+status: 4
+tags: []
+user_id: DELL

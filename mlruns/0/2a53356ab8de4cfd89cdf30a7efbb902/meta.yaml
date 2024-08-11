@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/MLops/project_2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/2a53356ab8de4cfd89cdf30a7efbb902/artifacts
+end_time: 1723361834122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a53356ab8de4cfd89cdf30a7efbb902
+run_name: bedecked-squid-184
+run_uuid: 2a53356ab8de4cfd89cdf30a7efbb902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723361826713
+status: 4
+tags: []
+user_id: DELL
